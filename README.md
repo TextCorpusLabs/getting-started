@@ -20,8 +20,8 @@ To this end we:
   Text corpora reflect this difference.
   When a new mode of communication is believed to exist, we try to capture a sample of that mode.
 * Provide a "Methods and Materials" boilerplate describing how the corpus was collected.
-* Provide a citable [DOI](https://www.doi.org/) for the _process_.
-  For _unique_ corpora, we provide the [DOI](https://www.doi.org/) where the text corpus was introduced.
+* Provide a citable [DOI](https://guides.github.com/activities/citable-code/) for the _process_.
+  For _unique_ corpora, we provide the [DOI](https://www.doi.org/) to the _article_ where the text corpus was introduced.
 
 So that you can:
 
