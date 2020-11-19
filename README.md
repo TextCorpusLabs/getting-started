@@ -60,11 +60,11 @@ choco install python3 -y
 
 Unless otherwise noted in the repository directly, all scripts have been tested on Python 3.8.x.
 In each repository `README.md`, you will find a list of the packages needed and any special instructions.
-The most likely scenario is needing to run `pip install -r requirments.txt` from the `~/code` folder.
+The most likely scenario is needing to run `pip install -r requirements.txt` from the `~/code` folder.
 If nothing else is specified, run that.
 
 When writing any code that uses an external dependency, the version of that dependency needs to be declared.
-All the version information can be found in the repository’s `~/code/requirments.txt` file.
+All the version information can be found in the repository’s `~/code/requirements.txt` file.
 You _may_ be able to run different versions, especially if it is just a _minor_ revision, but if the _exact_ version is not used, YMMV.
 
 ## Steps
